@@ -1,0 +1,43 @@
+_repo: Underground-Movement_68358
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Engle, Robert
+    aliases:
+    - Engle, Robert J.
+    - Engle, Robert V.
+    - Engel, Robert V.
+    birthdate: 1928
+    gutenberg_agent_id: '54220'
+    url: http://www.gutenberg.org/2009/agents/54220
+creator:
+  author:
+    agent_name: Lang, Allen Kim
+    alias: Lang, Allen K.
+    birthdate: 1928
+    gutenberg_agent_id: '26584'
+    url: http://www.gutenberg.org/2009/agents/26584
+description: ''
+gutenberg_issued: '2022-06-20'
+identifiers:
+  gutenberg: '68358'
+language: en
+pgterms:marc905: 20220219071152lang
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Royal Publications, Inc,1956.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Fiction'
+- !lcsh 'Transportation -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Authoritarianism -- Fiction'
+- GITenberg
+title: Underground Movement
+url: http://www.gutenberg.org/ebooks/68358
