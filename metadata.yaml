@@ -10,6 +10,9 @@ contributor:
     birthdate: 1928
     gutenberg_agent_id: '54220'
     url: http://www.gutenberg.org/2009/agents/54220
+covers:
+- cover_type: archival
+  image_path: 68358-h/images/cover.jpg
 creator:
   author:
     agent_name: Lang, Allen Kim
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '26584'
     url: http://www.gutenberg.org/2009/agents/26584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68358#Underground-Movement
 gutenberg_issued: '2022-06-20'
 identifiers:
   gutenberg: '68358'
